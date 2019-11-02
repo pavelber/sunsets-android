@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Israeli Sunset Predictor</string>
+    <string name="fetching">Fetching data …</string>
+    <string-array name="locations">
+        <item>Fetching locations …</item>
+    </string-array>
+    <dimen name="big_font">24sp</dimen>
+</resources>
